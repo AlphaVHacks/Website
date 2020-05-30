@@ -168,7 +168,7 @@ div {
   background: #f4f4f4;
 }
 .bg-2 {
-  background: #ff7700;
+  background: #0077ff;
 }
 
 .bg-fff {
@@ -190,7 +190,7 @@ a#scrollUp {
 }
 
 a#scrollUp:hover {
-  background: #ff7700;
+  background: #0077ff;
 }
 
 .flex-style {
