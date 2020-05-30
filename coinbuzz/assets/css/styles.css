@@ -1656,7 +1656,7 @@ ul.menu.active {
   text-transform: uppercase;
 }
 .pricing-wrap button:hover {
-  background: #ff7700;
+  background: #0077ff;
   color: #fff;
   border-color: #ff7700;
 }
