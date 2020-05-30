@@ -789,16 +789,16 @@ a#scrollUp:hover {
 .expart-wrap a {
   display: inline-block;
   padding: 10px 25px;
-  background: #ff7700;
+  background: #0077ff;
   color: #fff;
   font-weight: 500;
   text-transform: uppercase;
   border-radius: 5px;
-  border: 2px solid #ff7700;
+  border: 2px solid #0077ff;
 }
 .expart-wrap a:hover {
   background: transparent;
-  color: #ff7700;
+  color: #0077ff;
 }
 .expart-img {
   position: absolute;
