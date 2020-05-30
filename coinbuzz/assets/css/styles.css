@@ -567,7 +567,7 @@ a#scrollUp:hover {
   left: 0;
   bottom: 0;
   width: 0;
-  background: #ff7700;
+  background: #0077ff;
   height: 3px;
   content: "";
 }
@@ -585,7 +585,7 @@ a#scrollUp:hover {
 }
 .service-items span:before {
   font-size: 40px;
-  color: #ff7700;
+  color: #0077ff;
 }
 /*--------service-area end--------*/
 
@@ -612,7 +612,7 @@ a#scrollUp:hover {
   font-size: 24px;
   font-weight: 700;
   line-height: 20px;
-  color: #ff7700;
+  color: #0077ff;
   margin-top: 20px;
   margin-bottom: 5px;
 }
@@ -670,7 +670,7 @@ a#scrollUp:hover {
   font-size: 40px;
 }
 .test-active .owl-nav div:hover {
-  color: #ff7700;
+  color: #0077ff;
 }
 .test-active .owl-nav div.owl-next {
   left: auto;
