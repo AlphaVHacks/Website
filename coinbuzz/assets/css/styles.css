@@ -221,7 +221,7 @@ a#scrollUp:hover {
   top: 0;
   width: 2px;
   content: "";
-  background: #ff7700;
+  background: #0077ff;
   height: 100%;
 }
 .contact-info li span {
@@ -296,7 +296,7 @@ a#scrollUp:hover {
 }
 .mainmenu li:hover > a,
 .mainmenu li.active > a {
-  color: #ff7700;
+  color: ;
 }
 .mainmenu li > a:before {
   position: absolute;
@@ -304,7 +304,7 @@ a#scrollUp:hover {
   top: 0;
   width: 0;
   height: 2px;
-  background: #ff7700;
+  background: #0077ff;
   content: "";
 }
 .mainmenu li:hover > a:before {
@@ -351,7 +351,7 @@ a#scrollUp:hover {
   display: block;
   color: #fff;
   font-weight: 700;
-  background: #ff7700;
+  background: #0077ff;
   height: 40px;
   border-radius: 5px;
   text-align: center;
@@ -394,7 +394,7 @@ a#scrollUp:hover {
 }
 .slider-content h2 span {
   display: inline-block;
-  background: #ff7700;
+  background: #0077ff;
   padding: 10px 10px;
 }
 .slider-content p {
@@ -405,18 +405,18 @@ a#scrollUp:hover {
 }
 .slider-content a {
   padding: 15px 30px;
-  background: #ff7700;
+  background: #0077ff;
   display: inline-block;
   color: #fff;
   text-transform: uppercase;
   font-weight: 600;
   border-radius: 5px;
   font-size: 16px;
-  border: 2px solid #ff7700;
+  border: 2px solid #0077ff;
 }
 .slider-content a:hover {
   background: transparent;
-  color: #ff7700;
+  color: #0077ff;
 }
 .slider-active .owl-dots {
   position: absolute;
@@ -435,7 +435,7 @@ a#scrollUp:hover {
   border-radius: 5px;
 }
 .slider-active .owl-dot.active {
-  background: #ff7700;
+  background: #0077ff;
   width: 30px;
 }
 /*--------slider-area end--------*/
@@ -491,7 +491,7 @@ a#scrollUp:hover {
   display: block;
   font-size: 18px;
   font-weight: 400;
-  color: #ff7700;
+  color: #0077ff;
   text-transform: uppercase;
   line-height: 28px;
 }
@@ -505,17 +505,17 @@ a#scrollUp:hover {
 .featured-content-wrap a {
   display: inline-block;
   padding: 15px 30px;
-  background: #ff7700;
+  background: #0077ff;
   color: #fff;
   text-transform: uppercase;
-  border: 2px solid #ff7700;
+  border: 2px solid #0077ff;
   text-transform: uppercase;
   font-weight: 500;
   border-radius: 5px;
 }
 .featured-content-wrap a:hover {
   background: transparent;
-  color: #ff7700;
+  color: #0077ff;
 }
 /*--------about-area end--------*/
 
@@ -548,7 +548,7 @@ a#scrollUp:hover {
 }
 .service-wrap a {
   display: inline-block;
-  color: #ff7700;
+  color: #0077ff;
   font-size: 18px;
   margin-top: 10px;
 }
@@ -2190,7 +2190,7 @@ ol {
   text-align: center;
   line-height: 50px;
   border: none;
-  background: #ff7700;
+  background: #0077ff;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
