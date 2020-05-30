@@ -707,7 +707,7 @@ a#scrollUp:hover {
   border-radius: 50%;
   position: absolute;
   left: 0;
-  color: #ff7700;
+  color: #0077ff;
   border: 1px solid #242424;
   top: 50%;
   transform: translateY(-50%);
@@ -716,9 +716,9 @@ a#scrollUp:hover {
   text-align: center;
 }
 .spacial-area ul li:hover i {
-  background: #ff7700;
+  background: #0077ff;
   color: #fff;
-  border-color: #ff7700;
+  border-color: #0077ff;
 }
 /*--------spacial-area end--------*/
 
