@@ -1581,9 +1581,9 @@ ul.menu.active {
 .pricing-menu li.buy a,
 .pricing-menu li.btc a,
 .pricing-menu li a:hover {
-  background: #ff7700;
+  background: #0077ff;
   color: #fff;
-  border-color: #ff7700;
+  border-color: #0077ff;
 }
 
 .pricing-menu li select {
