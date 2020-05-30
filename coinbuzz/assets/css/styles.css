@@ -1270,7 +1270,7 @@ ul.menu.active {
   color: #fff;
 }
 .header-area2 .mainmenu li > ul li:hover a {
-  color: #ff7700;
+  color: #0077ff;
 }
 .header-area2 .mainmenu li a:before,
 .header-area2 .mainmenu li.active a:before {
