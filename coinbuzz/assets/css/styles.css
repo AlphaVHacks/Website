@@ -2019,7 +2019,7 @@ ul.menu.active {
   opacity: 0.5;
 }
 .tag-wrap ul li a:hover {
-  border-color: #ff7700;
+  border-color: #0077ff;
   opacity: 1;
   background: #ff7700;
   color: #fff;
