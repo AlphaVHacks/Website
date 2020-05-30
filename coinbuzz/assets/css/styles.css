@@ -2250,6 +2250,11 @@ ol {
 }
 #log {
   transition: transform 0.2s;
+  size: 200%;
+}
+
+#log:hover {
+  transform: scale(1.5);
 }
 
 .contact-form button:hover {
