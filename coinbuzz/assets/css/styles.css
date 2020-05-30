@@ -1294,7 +1294,7 @@ ul.menu.active {
 .slider-area2 .slider-content span {
   display: block;
   background: transparent;
-  color: #ff7700;
+  color: #0077ff;
   font-style: italic;
   padding: 0;
 }
@@ -1321,7 +1321,7 @@ ul.menu.active {
   -moz-transform: translateY(-50%);
 }
 .slider-active .owl-nav div:hover {
-  background: #ff7700;
+  background: #0077ff;
   color: #fff;
 }
 .slider-active .owl-nav div.owl-next {
