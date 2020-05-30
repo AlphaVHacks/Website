@@ -1434,7 +1434,7 @@ ul.menu.active {
 .header-area3 .header-bottom {
   position: relative;
   z-index: 9;
-  background: #ff8d29;
+  background: #0077ff;
 }
 .header-area3 .header-bottom:before {
   position: absolute;
