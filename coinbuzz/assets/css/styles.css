@@ -941,7 +941,7 @@ a#scrollUp:hover {
 }
 .team-content ul li a:hover {
   background: #fff;
-  color: #ff8d29;
+  color: #0077ff;
 }
 /*--------team-area end --------*/
 
@@ -962,7 +962,7 @@ a#scrollUp:hover {
   color: #fff;
 }
 .nvestments-wrap h2 span {
-  color: #ff7700;
+  color: #0077ff;
 }
 .nvestments-wrap p {
   font-size: 16px;
@@ -985,7 +985,7 @@ a#scrollUp:hover {
   line-height: 45px;
   text-transform: uppercase;
   font-weight: 500;
-  background: #ff7700;
+  background: #0077ff;
   text-align: center;
   border-radius: 3px;
   color: #fff;
